@@ -16,7 +16,7 @@ public class Main {
                 new CommentServices(
                         commentRepository,
                         commentNotificationProxy);
-
+//xex
         var comment = new Comment();
         comment.setAuthor("Laurentiu");
         comment.setText("Demo comment");
